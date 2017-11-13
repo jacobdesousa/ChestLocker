@@ -1,0 +1,12 @@
+name: ChestLocker
+main: com.nitro.chestlocker.ChestLocker
+version: 1.0
+description: This plugin allows for players to lock their chests.
+author: Jacob DeSousa
+permissions:
+  chestlocker.lock:
+    default: true
+  chestlocker.unlock:
+    default: true
+  chestlocker.bypass:
+    default: op

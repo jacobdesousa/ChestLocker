@@ -1,0 +1,12 @@
+playerOnly: &7This command can only be used by players.
+noPermission: &cYou do not have the required permission.
+clearFirstSlot: &cPlease clear the first slot in your hotbar.
+lockTutorial: &7Please left click a chest with the Lock Tool to lock it.
+unlockTutorial: &7Please left click a chest with the Unlock Tool to unlock it.
+locked: &7Chest locked.
+lockingFailed: &cThis chest is already locked.
+chestNotLocked: &cThis chest is not locked.
+chestIsntYours: &cThis chest does not belong to you.
+unlocked: &7Chest unlocked.
+bypass: &cThis chest is locked but because you have permission you were able to open it.
+isLocked: &cThis chest is locked.
