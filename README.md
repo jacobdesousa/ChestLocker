@@ -1,7 +1,7 @@
 # ChestLocker
 
 # Description
-This plugin allows for players to lock their chests.
+This plugin allows players to lock their chests.
 
 # Commands
 /lock - Gives players a lock tool.
